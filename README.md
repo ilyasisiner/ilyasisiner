@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm İlyas</h1>
-- 🌱 I’m currently learning **HTML5, CSS3, Bootstrap, SASS, JavaScript**
+<p align="center">- 🌱 I’m currently learning **HTML5, CSS3, Bootstrap, SASS, JavaScript**</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
