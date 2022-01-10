@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm İlyas</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 - 🌱 I’m currently learning **HTML5, CSS3, Bootstrap, SASS, JavaScript,jQuery , React,Redux ,Tailwind ,MongoDB**
 
